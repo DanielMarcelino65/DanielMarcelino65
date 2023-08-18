@@ -2,15 +2,19 @@
 
 ### Sobre mim
 
+
 Olá! Meu nome é Daniel Marcelino e sou estudante de Engenharia de Computação no Centro Universitário do Pará - CESUPA e estou estagiando como Dev na Zenith Inova. Estou começando minha jornada como programador e tenho conhecimentos em várias linguagens de programação, como Javascript, Typescript, C++ e C. Sempre busco aprender mais sobre tecnologia e programação, e estou animado para explorar novos desafios e oportunidades.
+<br>
 
 ### Status da minha conta no GitHub
-<a href="https://github.com/DanielMarcelino65/DanielMarcelino65">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DanielMarcelino65&show_icons=true&theme=dark&count_private=true" alt="Estatísticas do GitHub de DanielMarcelino65">
-</a>
-<a href="https://github.com/DanielMarcelino65/DanielMarcelino65">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DanielMarcelino65&layout=compact&theme=dark&count_private=true" alt="Linguagens mais usadas por DanielMarcelino65">
-</a>
+<div class="stats-content">
+  <a  href="https://github.com/DanielMarcelino65/DanielMarcelino65">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DanielMarcelino65&show_icons=true&theme=dark&count_private=true" alt="Estatísticas do GitHub de DanielMarcelino65">
+  </a>
+  <a href="https://github.com/DanielMarcelino65/DanielMarcelino65">
+    <img height="180em"src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DanielMarcelino65&layout=compact&theme=dark&count_private=true" alt="Linguagens mais usadas por DanielMarcelino65">
+  </a>
+</div>
 
 ##
 
