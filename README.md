@@ -8,10 +8,10 @@ Olá! Meu nome é Daniel Marcelino e sou estudante de Engenharia de Computação
 
 ### Status da minha conta no GitHub
 <div class="stats-content">
-  <a  href="https://github.com/DanielMarcelino65/DanielMarcelino65">
+  <a  href="https://github.com/DanielMarcelino65">
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DanielMarcelino65&show_icons=true&theme=dark&count_private=true" alt="Estatísticas do GitHub de DanielMarcelino65">
   </a>
-  <a href="https://github.com/DanielMarcelino65/DanielMarcelino65">
+  <a href="https://github.com/DanielMarcelino65">
     <img height="180em"src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DanielMarcelino65&layout=compact&theme=dark&count_private=true" alt="Linguagens mais usadas por DanielMarcelino65">
   </a>
 </div>
