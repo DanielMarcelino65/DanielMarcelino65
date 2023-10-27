@@ -17,7 +17,7 @@ Olá! Meu nome é Daniel Marcelino e sou estudante de Engenharia de Computação
   </a>
 </div>
 --->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DanielMarcelino65&theme=dark&hide_border=true&border_radius=20)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DanielMarcelino65&theme=dark&hide_border=true&background=15%2C5C0892%2C000000)](https://git.io/streak-stats)
 
 ##
 
