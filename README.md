@@ -1,31 +1,28 @@
-# Oii pessoal 👋
+Hi 👋 My name is Daniel Marcelino!
+==================================
 
-### Sobre mim
+Mobile Developer & Web Developer
+--------------------------------
 
+Hello! I'm Daniel Marcelino, a passionate and dedicated software developer specializing in web and mobile development. I started my career focusing on web development, specifically creating landing pages. Using modern frameworks such as Next.js and React, I honed my skills in developing sleek, responsive websites. This initial phase of my career was a rigorous training ground where I delved deep into newer programming languages, particularly JavaScript and TypeScript. After months of refining my web development capabilities, I transitioned to mobile programming, where I found my true passion. For over a year now, I have been immersed in the world of React Native, developing and enhancing my skills to create robust and feature-rich mobile applications. My expertise in React Native allows me to build applications with smooth and engaging animations, leveraging the powerful Reanimated library. As I continue my journey, I aim to deepen my knowledge and proficiency in mobile programming by exploring native languages and platforms.
 
-Olá! Meu nome é Daniel Marcelino e sou estudante de Engenharia de Computação no Centro Universitário do Pará - CESUPA e estou estagiando como Dev na Zenith Inova. Estou começando minha jornada como programador e tenho conhecimentos em várias linguagens de programação, como Javascript, Typescript, C++ e C. Sempre busco aprender mais sobre tecnologia e programação, e estou animado para explorar novos desafios e oportunidades.
-<br>
+* 🌍  I'm based in Belém - Pará - Brazil
+* ✉️  You can contact me at [danmarcelino6573@gmail.com](mailto:danmarcelino6573@gmail.com)
+* 🚀  I'm currently working on [Zenith Inova](http://zenithinova.com.br/)
+* 🧠  I'm learning React Native with Expo
 
-### Status da minha conta no GitHub
-<!---
-<div class="stats-content">
-  <a  href="https://github.com/DanielMarcelino65">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DanielMarcelino65&show_icons=true&theme=dark&count_private=true" alt="Estatísticas do GitHub de DanielMarcelino65">
-  </a>
-  <a href="https://github.com/DanielMarcelino65">
-    <img height="180em"src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DanielMarcelino65&layout=compact&theme=dark&count_private=true" alt="Linguagens mais usadas por DanielMarcelino65">
-  </a>
-</div>
---->
-[![GitHub Streak](https://streak-stats.demolab.com?user=DanielMarcelino65&theme=dark&hide_border=true&background=15%2C5C0892%2C000000)](https://git.io/streak-stats)
+### Skills
 
-##
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+</p>
 
-### Entre em contato
-<a href="https://instagram.com/danmarcelino22" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:danmarcelino6573@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+### Socials
 
+<p align="left"> <a href="https://www.github.com/DanielMarcelino65" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/danmarcelino22" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/danielmarcelino65" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-  
+### Badges
 
+<b>My GitHub Stats</b>
 
+<a href="http://www.github.com/DanielMarcelino65"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielMarcelino65&stroke=ffffff&background=171717&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
