@@ -8,8 +8,6 @@ Hello! I'm Daniel Marcelino, a passionate and dedicated software developer speci
 
 * 🌍  I'm based in Belém - Pará - Brazil
 * ✉️  You can contact me at [danmarcelino6573@gmail.com](mailto:danmarcelino6573@gmail.com)
-* 🚀  I'm currently working on [Zenith Inova](http://zenithinova.com.br/)
-* 🧠  I'm learning React Native with Expo
 
 ### Skills
 
